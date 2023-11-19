@@ -4,10 +4,10 @@ Este repositório contém as soluções e consultas SQL do Desafio 1 da vaga de 
 
 ## Estrutura do Repositório
 
-- **querys/**: Contém os arquivos SQL com as consultas desenvolvidas para o desafio.
+- **/querys**: Contém os arquivos SQL com as consultas desenvolvidas para o desafio.
 
-- **data/**: Diretório que contém arquivos CSV utilizados no desafio.
+- **/data**: Diretório que contém arquivos CSV utilizados no desafio.
 
 ## Como Utilizar
 
-As soluções estão no diretório `queries`. Cada arquivo SQL aborda uma pergunta específica. Para executar as queries, é necessário inicializar a query `create-tables` e ajustar o diretório onde se encontram os CSV conforme a localização da pasta `\data` em seu computador.
+As soluções estão no diretório `queries`. Cada arquivo SQL aborda uma pergunta específica. Para executar as queries, é necessário inicializar a query `create-tables` e ajustar o diretório onde se encontram os CSV conforme a localização da pasta `/data` em seu computador.
